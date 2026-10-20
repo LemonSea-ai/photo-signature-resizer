@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Update this line with your real domain after deploy:
-Sitemap: https://REPLACE_WITH_YOUR_DOMAIN/sitemap.xml
+Sitemap: https://lemonsea-ai.github.io/photo-signature-resizer/sitemap.xml
